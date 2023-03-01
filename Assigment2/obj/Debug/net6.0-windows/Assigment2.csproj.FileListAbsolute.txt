@@ -1,0 +1,17 @@
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\bin\Debug\net6.0-windows\Assigment2.exe
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\bin\Debug\net6.0-windows\Assigment2.deps.json
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\bin\Debug\net6.0-windows\Assigment2.runtimeconfig.json
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\bin\Debug\net6.0-windows\Assigment2.dll
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\bin\Debug\net6.0-windows\Assigment2.pdb
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\obj\Debug\net6.0-windows\Assigment2.csproj.AssemblyReference.cache
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\obj\Debug\net6.0-windows\Assigment2.csproj.GenerateResource.cache
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\obj\Debug\net6.0-windows\Assigment2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\obj\Debug\net6.0-windows\Assigment2.AssemblyInfoInputs.cache
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\obj\Debug\net6.0-windows\Assigment2.AssemblyInfo.cs
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\obj\Debug\net6.0-windows\Assigment2.csproj.CoreCompileInputs.cache
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\obj\Debug\net6.0-windows\Assigment2.dll
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\obj\Debug\net6.0-windows\ref\Assigment2.dll
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\obj\Debug\net6.0-windows\Assigment2.pdb
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\obj\Debug\net6.0-windows\Assigment2.genruntimeconfig.cache
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\obj\Debug\net6.0-windows\Assigment2.Assignment2.resources
+C:\Users\rapha\Desktop\CSharpAss2\Assigment2\obj\Debug\net6.0-windows\refint\Assigment2.dll
